@@ -1,7 +1,7 @@
 Hi there, I’m @lborelli
 
 I’m interested in programming, operating systems and everything regarding computing.  
-I’m currently learning Rust, functional programming and new stuff...
+I’m currently learning [Rust](https://www.rust-lang.org/), [Elixir](https://elixir-lang.org/), functional programming and new stuff...
 
 - 📫 You can reach me LinkedIn: https://www.linkedin.com/in/lucaborelli/
 
